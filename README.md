@@ -11,11 +11,11 @@ In this part of the project we will be establishing a solid foundation foundatio
 [3. what dataset is being analyzed?](#the-dataset)  
 [4. what are the metrics to be used?](the-metrics)  
 
-###The topic
+### The topic
 The hypothesis being tested is **Religiosity positively correlates with age". This suggests that as individuals grow old, their level of religiosity rises, excluding those who aren't old enough to form independent opinions and worldviews even if the trend still holds for them.  
 investigating this hypothesis can help us uncover and understand societal trends regarding the dynamics of religiosity in different age groups over time.  
 
-###the audience
+### the audience
 The findings of this case study can benefit a number of entities and individuals mainly:  
 **Academic researchers:** This study can serve as a basis for further academic research, contributing to the body of knowledge in fields such as sociology, psychology, and religious studies.  
 **Advertisers:** Marketing algorithms can be designed with this correlation in mind helping market researchers, advertisers and corporations reach the right demographic consequently improving sales and user satisfaction.
