@@ -26,8 +26,12 @@ To reach our objective we will use the following two datasets:
 **dataset2**: The second data set to be used in this study is a public dataset sourced form the office for national statistics.This dataset, derived from the 2021 Census in England and Wales, offers insights into the religious affiliations of residents. It categorizes individuals into different religious groups, including "No religion," and accommodates those who didn't respond to the question.
 
 ### the metrics 
-To reach our goal and get usefull insights from our data, metrics will be used such as:  
+To reach our goal and get useful insights from our data, metrics will be used such as:  
 1.Scatter plot: A scatter plot is an excellent choice when visualizing the relationship between two continuous variables, such as age and religiosity.  
 2.line chart: A line chart displays data points as dots connected by lines. It's often used to visualize trends over time. It will be use to test how religious attendance changes with age.  
 3.Pearson's correlation coefficient: It is statistical measure that quantifies the strength and direction of the linear relationship between two continuous variables. This will be used to test the correlation between age and religiosity.
+
+# Prepare
+In this part of the study we will be testing the credibility of each data source, to achieve this we will be checking if the data **ROCC**s, meaning **R**eliable, **O**riginal, **C**omprehensive, **C**urrent and **C**ited.  
+**Dataset1:**
 
