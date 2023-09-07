@@ -33,5 +33,18 @@ To reach our goal and get useful insights from our data, metrics will be used su
 
 # Prepare
 In this part of the study we will be testing the credibility of each data source, to achieve this we will be checking if the data **ROCC**s, meaning **R**eliable, **O**riginal, **C**omprehensive, **C**urrent and **C**ited.  
-**Dataset1:**
+  
+**Dataset1:**  
+❌Reliable: The data is unbiased, but it has a small sample size meaning it may not accurately represent the broader population or phenomenon being studied.    
+✔️Original: That data was gathered by my colleague and I, meaning it is first-party data.  
+✔️Comprehensive: The data contains the needed information in the contex of this study.  
+✔️Curent: The data is recent (2022).  
+✔️Cited: The data is cited    
+  
+**Dataset2:**
+✔️Reliable: The data is unbiased and has a large sample size making up for the first dataset.  
+✔️Original: The data is data sourced from the Office for National Statistics (ONS), this would be considered second-party data.  
+✔️Comprehensive: The data contains the needed information in the contex of this study.  
+✔️Curent: The data is recent (2021).  
+✔️Cited: The data is cited(Office for National Statistics (ONS)), which is a trusted and well-known organization.  
 
