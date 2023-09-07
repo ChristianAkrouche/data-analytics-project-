@@ -41,7 +41,7 @@ In this part of the study we will be testing the credibility of each data source
 ✔️Curent: The data is recent (2022).  
 ✔️Cited: The data is cited    
   
-**Dataset2:**
+**Dataset2:**  
 ✔️Reliable: The data is unbiased and has a large sample size making up for the first dataset.  
 ✔️Original: The data is data sourced from the Office for National Statistics (ONS), this would be considered second-party data.  
 ✔️Comprehensive: The data contains the needed information in the context of this study.  
