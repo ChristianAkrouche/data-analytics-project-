@@ -49,6 +49,10 @@ In this part of the study we will be testing the credibility of each data source
 ✔️Cited: The data is cited(Office for National Statistics (ONS)), which is a trusted and well-known organization.  
 
 # Prepare 
-Now that we got a clear idea of the data we are working with, the next step is cleaning and transforming the data to align with the requirements of our data. It's important to note that we won't be editing the actual content of the data. To ensure transparency, we will thoroughly document the entire process, allowing you to view both the raw data before any modifications and the final result after our transformations are applied.
+Now that we got a clear idea of the data we are working with, the next step is cleaning and transforming the data to align with the requirements of our data. It's important to note that we won't be editing the actual content of the data. To ensure transparency, we will thoroughly document the entire process, allowing you to view both the raw data before any modifications and the final result after our transformations are applied.  
 **Dataset1:**  
-The process can be found in this file: [transformed data 1](https://github.com/ChristianAkrouche/data-analytics-project-/blob/main/transformed%20data1.xlsx)
+The process can be found in this file: [transformed data 1](https://github.com/ChristianAkrouche/data-analytics-project-/blob/main/transformed%20data1.xlsx)  
+**Dataset2:**  
+This could have been replicated using BigQuery but the transformation procces was very simple and better done in the spreadsheet.  
+the process can be found in this file: [transformed_data_2]
+
