@@ -54,5 +54,5 @@ Now that we got a clear idea of the data we are working with, the next step is c
 The process can be found in this file: [transformed data 1](https://github.com/ChristianAkrouche/data-analytics-project-/blob/main/transformed%20data1.xlsx)  
 **Dataset2:**  
 This could have been replicated using BigQuery but the transformation procces was very simple and better done in the spreadsheet.  
-the process can be found in this file: [transformed_data_2]
+the process can be found in this file: [transformed_data_2](https://github.com/ChristianAkrouche/data-analytics-project-/blob/main/transformed_data_2.xlsx)
 
