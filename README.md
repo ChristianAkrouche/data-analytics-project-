@@ -65,12 +65,12 @@ The subsequent phase involved harnessing the power of Tableau to craft compellin
 ### religiosity according to age,England and whales,2021:   
 ![dataset_2  age _religiosity](https://github.com/ChristianAkrouche/data-analytics-project-/assets/130599572/96e57783-ce91-40e3-9a99-8099248fbcd7)
 
-It was clear that both datasets follwed strikingly similar tragectories. Religiosity had a consistent pattern of growth reaching its peak in late adultery. However it then took a descending tragectory in old adultery(reasons will be discussed in next phase).
-The positive correlation  between age and religiosity was especially seen in the adult age group, which serves the most important point in our analysis. the following graphs bellow illustrate this phenomenon:  
+It was clear that both datasets followed strikingly similar tragectories. Religiosity had a consistent pattern of growth reaching its peak in late adultery. However it then took a descending trajectory in old adultery(reasons will be discussed in next phase).
+The positive correlation  between age and religiosity was especially seen in the adult age group, which serves the most important point in our analysis. The following graphs bellow illustrate this phenomenon:  
 ![Adults_dataset1](https://github.com/ChristianAkrouche/data-analytics-project-/assets/130599572/5c7a120b-4090-441b-af44-47fc01e1fbd2)
 
 ![Adults_dataset2](https://github.com/ChristianAkrouche/data-analytics-project-/assets/130599572/e7142f51-04cd-4cd2-8354-86c9f2d46f39)
 
-#### Pearsons correlation coefficent
+#### Pearson's correlation coefficoent
 This is a measure of the linear relationship between two continuous variables. It ranges from -1 to 1, where -1 indicates a perfect negative linear relationship, 1 indicates a perfect positive linear relationship, and 0 indicates no linear relationship.
-this calculation was done on the adult group in dataset 2, and the answer was 0.9812  This value indicates a strong positive linear relationship between the two variables. **Please note that correlation doesn't always mean causation**, social and individuaal reasons should be investigated to insure the causation.
+this calculation was done on the adult group in dataset 2, and the answer was 0.9812  This value indicates a strong positive linear relationship between the two variables. **Please note that correlation doesn't always mean causation**, social and individual reasons should be investigated to insure the causation.
