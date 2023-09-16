@@ -56,3 +56,12 @@ The process can be found in this file: [transformed data 1](https://github.com/C
 This could have been replicated using BigQuery but the transformation procces was very simple and better done in the spreadsheet.  
 the process can be found in this file: [transformed data 2](https://github.com/ChristianAkrouche/data-analytics-project-/blob/main/transformed_data_2.xlsx)
 
+# Share
+The subsequent phase involved harnessing the power of Tableau to craft compelling visualizations that would unveil the narrative hidden within the data. Raw numbers were transformed into vibrant insightful displays:  
+  
+### religious attendance by age: ![dataset_1 age_religious attendance (l1 church,1 mosque)](https://github.com/ChristianAkrouche/data-analytics-project-/assets/130599572/27ffe357-b6bf-4c79-8d96-59c882361fb7)
+
+
+### religiosity according to age,England and whales,2021:![dataset_2  age _religiosity](https://github.com/ChristianAkrouche/data-analytics-project-/assets/130599572/96e57783-ce91-40e3-9a99-8099248fbcd7)
+
+
