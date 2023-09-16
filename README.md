@@ -74,3 +74,18 @@ The positive correlation  between age and religiosity was especially seen in the
 #### Pearson's correlation coefficoent
 This is a measure of the linear relationship between two continuous variables. It ranges from -1 to 1, where -1 indicates a perfect negative linear relationship, 1 indicates a perfect positive linear relationship, and 0 indicates no linear relationship.
 this calculation was done on the adult group in dataset 2, and the answer was 0.9812  This value indicates a strong positive linear relationship between the two variables. **Please note that correlation doesn't always mean causation**, social and individual reasons should be investigated to insure the causation.
+
+# Act 
+**Conclusion:**
+The present study provides support for the hypothesis that people become more religious as they get older. This finding is consistent with previous research, which has suggested that age is positively related to religiosity (Hill & Pargament, 2008; Levin et al., 1994). There are several possible explanations for this relationship here are two:
+
+1.	Existential Theory: People become more religious as they age because they get more aware about their mortality and in turn will begin searching for meaning . And in this search they will find  religion as a source of comfort and support in their lives .  A study by Koenig et al. (2012) found that older adults who were more religious had better psychological well-being, this suggest that religion serves as a coping mechanism for  life problems and stressors
+
+2.	Socialization and Life Changes:Social factors,external motivators and major life changes, such as retirement or loss of a spouse, can lead people to seek  religiosity. According to this view, individuals facing difficult and stressing times may turn to religion as a source of social support and comfort. A study by Krause (2006) found that individuals who experienced negative life events, such as the death of relatives and  chronic health problems, were more likely to increase their religious participation.
+
+Please note that these  are only thought after speculation regarding the reasoning behind this hypothesis. To delve deeper into this subject and gain a more profound understanding, further studies employing a more philosophical and psychological approach should be undertaken.
+
+Finally, it was notable that the trend did not appear to apply to those of very advanced age, this can be due to to health-related factors that may render them physically incapable of participating in religious activities, as well as cognitive impairments that could hinder their engagement.
+
+
+
