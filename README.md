@@ -70,3 +70,7 @@ The positive correlation  between age and religiosity was especially seen in the
 ![Adults_dataset1](https://github.com/ChristianAkrouche/data-analytics-project-/assets/130599572/5c7a120b-4090-441b-af44-47fc01e1fbd2)
 
 ![Adults_dataset2](https://github.com/ChristianAkrouche/data-analytics-project-/assets/130599572/e7142f51-04cd-4cd2-8354-86c9f2d46f39)
+
+#### Pearsons correlation coefficent
+This is a measure of the linear relationship between two continuous variables. It ranges from -1 to 1, where -1 indicates a perfect negative linear relationship, 1 indicates a perfect positive linear relationship, and 0 indicates no linear relationship.
+this calculation was done on the adult group in dataset 2, and the answer was 0.9812  This value indicates a strong positive linear relationship between the two variables. **Please note that correlation doesn't always mean causation**, social and individuaal reasons should be investigated to insure the causation.
