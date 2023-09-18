@@ -23,7 +23,7 @@ The findings of this case study can benefit a number of entities and individuals
 ### The dataset
 To reach our objective we will use the following two datasets:  
 **Dataset1**: For the previously mentioned phsycology project my colleague and I conducted an observation at a local mosque and at a local church during peak prayer time (mosque: Friday/ church: Sunday). We recorded the age of the attenders in the period of one day. you can find the raw data in the [raw-data-1](https://github.com/ChristianAkrouche/data-analytics-project-/blob/main/Raw-data-1.xlsx) file.  
-**dataset2**: The second data set to be used in this study is a public dataset sourced form the office for national statistics.This dataset, derived from the 2021 Census in England and Wales, offers insights into the religious affiliations of residents. It categorizes individuals into different religious groups, including "No religion," and accommodates those who didn't respond to the question.
+**dataset2**: The second data set to be used in this study is a public dataset sourced form the office for national statistics.This dataset, derived from the 2021 Census in England and Wales, offers insights into the religious affiliations of residents. It categorizes individuals into different religious groups, including "No religion," and accommodates those who didn't respond to the question. You can find the raw data in the [raw-data-2] file.
 
 ### the metrics 
 To reach our goal and get useful insights from our data, metrics will be used such as:  
