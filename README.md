@@ -17,12 +17,12 @@ investigating this hypothesis can help us uncover and understand societal trends
 
 ### The audience
 The findings of this case study can benefit a number of entities and individuals mainly:  
-**Academic researchers:** This study can serve as a basis for further academic research, contributing to the body of knowledge in fields such as sociology, psychology, and religious studies.  
+**Academic researchers:** This study can serve as a basis for further academic research, contributing to the body of knowledge in fields such as sociology, psychology, and religious studies.   
 **Advertisers:** Marketing algorithms can be designed with this correlation in mind helping market researchers, advertisers and corporations reach the right demographic consequently improving sales and user satisfaction.
 
 ### The dataset
 To reach our objective we will use the following two datasets:  
-**Dataset1**: For the previously mentioned phsycology project my colleague and I conducted an observation at a local mosque and at a local church during peak prayer time (mosque: Friday/ church: Sunday). We recorded the age of the attenders in the period of one day. you can find the raw data in the [raw-data-1](https://github.com/ChristianAkrouche/data-analytics-project-/blob/main/Raw-data-1.xlsx) file.
+**Dataset1**: For the previously mentioned phsycology project my colleague and I conducted an observation at a local mosque and at a local church during peak prayer time (mosque: Friday/ church: Sunday). We recorded the age of the attenders in the period of one day. you can find the raw data in the [raw-data-1](https://github.com/ChristianAkrouche/data-analytics-project-/blob/main/Raw-data-1.xlsx) file.  
 **dataset2**: The second data set to be used in this study is a public dataset sourced form the office for national statistics.This dataset, derived from the 2021 Census in England and Wales, offers insights into the religious affiliations of residents. It categorizes individuals into different religious groups, including "No religion," and accommodates those who didn't respond to the question.
 
 ### the metrics 
