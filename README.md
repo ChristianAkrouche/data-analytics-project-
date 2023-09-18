@@ -5,7 +5,7 @@ This is my take on the Google data analytics capstone project. I will be followi
 The final project of my psychology class in university was suggesting a hypothesis and gathering data to validate or invalidate it. Since the sample size was insufficient and the data was confined to a small geological area, I found the Google data analytics capstone case study to be a great opportunity to develop the project by adding public data to be analyzed, consequently (hopefully) gaining valuable insights from both data sources and also from comparing them side by side. 
 
 # Ask 
-In this part of the project we will be establishing a solid foundation foundation and addressing the key factors essential for the study.Achieving this will be done n by answering the four following questions:  
+In this part of the project we will be establishing a solid foundation and addressing the key factors essential for the study.Achieving this will be done n by answering the four following questions:  
 [1. what is the topic to be investigated?](#the-topic)  
 [2. Who is the target audience?](#the-audience)  
 [3. what dataset is being analyzed?](#the-dataset)  
